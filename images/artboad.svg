@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 195.52 43.04">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        font-family: FugazOne-Regular, 'Fugaz One';
+        font-size: 32.89px;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #231815;
+        stroke-width: .25px;
+      }
+
+      .cls-2, .cls-5, .cls-4 {
+        stroke: #fff100;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="cls-5" transform="translate(14.22 29.95)"><tspan x="0" y="0">Todo-List-</tspan></text>
+    <text class="cls-2" transform="translate(14.22 29.95)"><tspan x="0" y="0">Todo-List-</tspan></text>
+    <text class="cls-1" transform="translate(14.22 29.95)"><tspan x="0" y="0">Todo-List-</tspan></text>
+  </g>
+  <g>
+    <rect class="cls-4" x="16.13" y="34.31" width="168.02" height="4.29" rx=".78" ry=".78"/>
+    <rect class="cls-3" x="16.13" y="34.31" width="168.02" height="4.29" rx=".78" ry=".78"/>
+  </g>
+</svg>
