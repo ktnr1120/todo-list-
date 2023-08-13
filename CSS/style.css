@@ -1,0 +1,77 @@
+body {
+   font-family: Arial, sans-serif;
+ }
+
+ h2 {
+   margin: 0 auto;
+   padding: 40px 40px;
+   width: 500px;
+   height: 15px;
+ }
+
+ .todo-app {
+   text-align: center;
+   margin: 20px;
+ }
+ 
+ button {
+   padding: 5px 10px;
+   background-color: #007bff;
+   color: white;
+   border: none;
+   cursor: pointer;
+   border-style: outset;
+ }
+ 
+ button:hover {
+   background-color: #0056b3;
+ }
+ 
+ li {
+   font-size: 50px;
+   list-style: none;
+   margin: 50px;
+   text-align: center;
+ }
+ 
+ .completed {
+   text-decoration: line-through;
+ }
+
+ .delete-button {
+   margin: 10px;
+   padding: 2px 5px;
+   background-color: #dc3545;
+   color: white;
+   border: none;
+   cursor: pointer;
+ }
+
+ .delete-button:hover {
+   background-color: #c82333;
+ }
+ 
+/*チェックボックスのスタイル*/
+ .custom-checkbox {
+   display: inline-block;
+   width: 18px;
+   height: 18px;
+   background-color: #fff;
+   border: 2px solid #ccc;
+   border-radius: 3px;
+   margin-right: 10px;
+   vertical-align: middle;
+ }
+
+
+ /* フッター*/
+ footer {
+   background: #432;
+   text-align: center;
+   padding: 26px 0;
+ }
+
+ footer p {
+   color: #fff;
+   font-size: 0.875rem;
+ }
