@@ -1,5 +1,5 @@
-# todo-list-
-練習用のTodoアプリ。
+# プロジェクト名
+todmアプリ
 
 ## スキルヘッド
 言語 : javascript
